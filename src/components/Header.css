@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+.header {
+    display: flex;
+    align-items: center;
+    justify-content:left;
+    gap: 2rem;
+    height: fit-content;
+    background-color: black;
+    padding: 0 1rem;
+    position: sticky;
+}
+
+.header-content {
+    text-decoration: none;
+    color: white;
+}

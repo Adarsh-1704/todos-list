@@ -4,8 +4,8 @@ function Footer() {
   let footerStyle = {
     position: "relative",
     width: "100%",
-    bottom: '0',
-    marginTop: "20px"
+    bottom: '0px',
+    // marginTop: "100px",
   }
   return (
     <div className='bg-dark text-light py-3' style={footerStyle}>
